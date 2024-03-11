@@ -1,0 +1,1 @@
+Sitemap: /git-wiki-skeleton/sitemap.xml
